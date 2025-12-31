@@ -1,0 +1,33 @@
+.head{
+    background-color: #282c34;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding: 0 20px;
+    width: 100%;
+}
+.logo{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.head ul li{
+    list-style: none;
+    display: inline;
+    margin-right: 20px;
+
+}
+
+.head ul li a{
+    text-decoration: none;
+    color: white;
+    list-style-type: none;
+}
+.count
+{
+    background-color: yellowgreen;
+    border-radius: 50%;
+    padding: 5px; 
+}
